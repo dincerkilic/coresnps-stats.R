@@ -3,11 +3,11 @@ R script to give statistics of core SNPs distances from a given pairwise fasta a
 
 Program gives you the maximum, minimum, and the average number of core SNPs detected in pairwise fasta alignment file.
 
-It is useful to have a preliminary idea about the genomic relatedness of your genomes that you pairwise aligned.
+It is useful to have a preliminary idea about the genomic relatedness of your genomes that you aligned pairwisely.
 
 **Usage**
 ```sh
-Rscript coreSNPS-stats.R your_pairwise_alignment_fasta_file
+Rscript coresnps-stats.R your_pairwise_alignment_fasta_file
 ```
 
 **Example**

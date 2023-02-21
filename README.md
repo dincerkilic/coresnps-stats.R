@@ -7,7 +7,7 @@ It is useful to have a preliminary idea about the genomic relatedness of your ge
 
 **Usage**
 ```sh
-Rscript coresnps-stats.R your_pairwise_alignment_fasta_file
+Rscript coresnps-stats.R your_pairwise_fasta_alignment_file
 ```
 
 **Example**
